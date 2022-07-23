@@ -8,7 +8,7 @@
 - ali
 1. class
    - uzair
-     ali
+   - ali
 
 >its my first repo
 
