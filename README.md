@@ -11,4 +11,6 @@
    - ali
 
 >its my first repo
+[x] github completed
+[] docker remain
 
