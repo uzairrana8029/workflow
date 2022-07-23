@@ -2,10 +2,13 @@
 
 ## second heading
 **uzair rajoot**
---hng hng--
+-hng hng-
 [google](www.google.com)
--uzair
--ali
+- uzair
+- ali
 1. class
    - uzair
-   -ali
+    ali
+
+>its my first repo
+
